@@ -27,5 +27,11 @@
 
 <a href="https://github.com/user-attachments/assets/6f4a8208-5d98-4064-9b34-5c9d95999c91" target="blank">
 <img align="center" src="https://github.com/user-attachments/assets/6f4a8208-5d98-4064-9b34-5c9d95999c91" height="50" />
-</a>
+</a><br><br>
+
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 
