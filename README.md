@@ -4,9 +4,8 @@
 
 - 👋 Hi, I’m @yashbachoo
 - 👀 I’m interested in Programming and full stack dev.
-- 🌱 I’m currently learning visual studio extension, web development and programming.
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning **Full stack developer**
+- 🌱 I’m currently learning **Full stack developer** and **Programming**
 - 📫 How to reach me **yashanuj2@gmail.com**
 
 
