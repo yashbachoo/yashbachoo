@@ -1,3 +1,6 @@
+
+<img src="https://cdn.mos.cms.futurecdn.net/xKkFJqojdSd8vJuvCLs5mU.jpg" alt="stars" height="400" width="1000"/>
+
 - 👋 Hi, I’m @yashbachoo
 - 👀 I’m interested in Programming and full stack dev.
 - 🌱 I’m currently learning visual studio extension, web development and programming.
@@ -17,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/user-attachments/assets/6f4a8208-5d98-4064-9b34-5c9d95999c91" target="blank">
 <img align="center" src="https://github.com/user-attachments/assets/6f4a8208-5d98-4064-9b34-5c9d95999c91" height="50" />
 </a>
+
