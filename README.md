@@ -17,4 +17,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.flaticon.com/free-icons/aquarium"  target="blank">
 <img align="center" src="https://www.flaticon.com/free-icons/aquarium"  height="100" />
 </a>
-https://www.flaticon.com/free-icons/aquarium" title="aquarium icons
